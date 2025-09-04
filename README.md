@@ -3,7 +3,9 @@
 ## 실행 방법
 
 ```sh
-
+cd src
+pip install -r requirements.txt # 의존성 설치
+python main.py # 프로그램 실행
 ```
 
 ## 과제
